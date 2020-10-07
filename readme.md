@@ -1,26 +1,26 @@
-# This is a large heading
+# David IJASEUN
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poetâ€™s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
-- This is
-- an unordered
-- list
-1. This is
-2. an ordered
-3. list
-Here is `some code` in the middle of a sentence.
-```
-This is
-a block
-of code
-```
+I live in the city of Osogbo, in the state of \
+Osun, in Nigeria.
 
-Here is how you make [a link](https://www.wikiped\
-ia.org/).
-![This is an image.](https://github.com/yihui/xar\
-ingan/releases/download/v0.0.2/karl-moustache.jpg\
-)
+### Reading
+
+Three of my favorite books are:
+- *Mindstorms* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
+
+### Food
+
+Last night I dreamt about eating in these restaur\
+ants:
+1. Linger in Denver.
+2. Azura in Jerusalem.
+3. Gemma in New York City.
+
+### Contact
+
+The best way to get in touch with me is [on Twitt\
+er](https://twitter.com/seankross).
